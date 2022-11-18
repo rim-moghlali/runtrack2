@@ -23,7 +23,9 @@
     </head>
 
     <body>
-        <form>
+        <p>Le nombre d'argument GET est:</p>
+        
+        <form method="post">
             
             <!--  Nom input -->
             <label for="name"> Nom </label>
@@ -37,7 +39,7 @@
             <label for="age"> Age </label>
             <input type="text" name="age">
             
-
+             <input type="submit">
 
         </form>
     </body>
