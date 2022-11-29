@@ -1,6 +1,6 @@
 <?php 
 
-    $str = 'i\'m sorry Dave i\'m afraid i can\'t do that';
+    $str = "i'm sorry Dave i'm afraid i can't do that";
 
     $voyelle = ['a','e','i','o','u','y','A','E','I','O','U','Y'];
 
