@@ -1,0 +1,14 @@
+body {
+    background-color: yellow;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    border-color: bisque;
+}
+
+select{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15ch;
+}

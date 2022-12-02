@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(205, 238, 227);
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    border-color: bisque;
+}
+
+select{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25ch;
+}
